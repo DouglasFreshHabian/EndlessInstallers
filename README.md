@@ -1,4 +1,7 @@
-# 🖥️ Endless Installers (Cosmetic Terminal Simulators)
+<h1 align="center">
+🖥️ Endless Installers
+</h1>
+
 [![asciicast](https://asciinema.org/a/763047.svg)](https://asciinema.org/a/763047)
 A collection of **three fully safe, purely cosmetic terminal simulators** that mimic Linux installer/update behavior.
 These scripts generate **realistic-looking** package operations, progress bars, repo fetches, and system setup sequences — but they **do not install anything** and **perform no system changes**.
